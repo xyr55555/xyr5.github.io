@@ -190,7 +190,7 @@ mysqli_close($conn);
     <div class="container">
 
         <div class="commit-box">
-            <h2>二向箔安全留言板</h2>
+            <h2>XYR的留言板</h2>
             <div class="commit-item">
             <?php
             foreach($rows as $row){
